@@ -1,0 +1,76 @@
+.heading {
+  font-weight: bold;
+  justify-content: center;
+}
+
+table,
+th,
+td {
+  border: 2px solid white;
+}
+
+.table {
+  margin-top: 50px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+
+.details {
+  margin-top: 50px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  height: 200px;
+}
+
+.details h4 {
+  padding: 20px;
+  margin-top: 20px;
+}
+.form-control {
+  border-radius: 30px;
+}
+
+.btn {
+  border-radius: 30px;
+  margin-top: 30px;
+}
+
+.form-signin {
+  /* border: 1px solid; */
+  height: 350px;
+  width: 800px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  border-radius: 40px;
+  margin-top: 30px;
+}
+
+.form-signin .row {
+  margin-top: 20px;
+  padding: 5px;
+}
+
+.form-signup {
+  /* border: 1px solid; */
+  height: 400px;
+  width: 800px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  border-radius: 40px;
+  margin-top: 30px;
+}
+
+.form-signup .row {
+  margin-top: 20px;
+  padding: 5px;
+}
+
+.title {
+  margin-top: 30px;
+}
+
+.profile h4 {
+  height: 40px;
+  width: 200px;
+  border-style: 1px solid white;
+}
+
+.shopping {
+  margin-left: 30%;
+}
