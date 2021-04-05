@@ -20,5 +20,6 @@ View this project on https://crazyblackfactory.herokuapp.com
 * Bootstrap
 * NodeJS
 * ExpressJS
+* MongoDB
 * Authentication
 * Payment gateway
