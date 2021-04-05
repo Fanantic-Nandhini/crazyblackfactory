@@ -1,4 +1,4 @@
-# CrazyBlackFactory - a complete mern stack e-commerce application
+# CrazyBlackFactory - a complete MERN Stack   e-commerce application
 View this project on https://crazyblackfactory.herokuapp.com
 
 ## Installation
